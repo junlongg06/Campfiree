@@ -1,0 +1,4 @@
+repository "Campfiree@Campfiree@cloud"
+  path "/"
+    br "/main"
+    co "/main"
